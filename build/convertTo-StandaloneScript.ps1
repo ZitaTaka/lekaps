@@ -46,7 +46,7 @@ param(
     .PARAMETER  OutFile
         Specify output .ps1 script file.
 
-    .INPUTS
+]    .INPUTS
         None. You cannot pipe objects.
 
     .OUTPUTS
